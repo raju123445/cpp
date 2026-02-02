@@ -23,7 +23,7 @@ class RBTree{
             RBNode* y = x->right;
             x->right = y->left;
 
-            if(y->left != NIL)          // Ensure NIL check before accessing left child
+            if(y->left != NIL)          // imp
                 y->left->parent = x;
 
             y->parent = x->parent;

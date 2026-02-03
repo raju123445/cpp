@@ -2,7 +2,7 @@
 
 # Examples (input arrays → outputs)
 
-> The examples below show sample input arrays for each program and the expected output when the program processes those inputs. No code is shown — only inputs and outputs.
+> The examples below show sample input arrays for each program and the expected output when the program processes those inputs. No code is shown only inputs and outputs.
 
 ---
 

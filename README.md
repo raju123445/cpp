@@ -1,4 +1,4 @@
-# Assessment in CPP
+# Assignment in CPP
 
 # Examples (input arrays → outputs)
 

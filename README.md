@@ -2,11 +2,11 @@
 
 # Examples (input arrays → outputs)
 
-> The examples below show sample input arrays for each program and the expected output when the program processes those inputs. No code is shown — only inputs and outputs. ✅
+> The examples below show sample input arrays for each program and the expected output when the program processes those inputs. No code is shown — only inputs and outputs.
 
 ---
 
-## `BST_using_class.cpp` 🔧
+## `BST_using_class.cpp`
 
 - **Input array:** ` [10, 5, 15, 3, 7, 20]`
 - **Output (in-order traversal):** `3 5 7 10 15 20`
